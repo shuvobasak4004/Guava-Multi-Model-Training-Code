@@ -1,0 +1,228 @@
+import tkinter as tk
+from tkinter import filedialog, messagebox
+from PIL import Image, ImageTk, ImageDraw, ImageFont
+import cv2
+from ultralytics import YOLO
+import numpy as np
+import tensorflow as tf
+import os
+
+# ============================
+# Folder containing models
+# ============================
+model_folder = r"D:\JU\yoloresult\result_model"
+
+# ============================
+# Load YOLO models
+# ============================
+yolo_models = {
+    "YOLOv8": YOLO(os.path.join(model_folder, "best_yolo8.pt")),
+    "YOLOv11": YOLO(os.path.join(model_folder, "best_yolo11.pt")),
+    "YOLOv12": YOLO(os.path.join(model_folder, "best_yolo12.pt"))
+}
+
+# ============================
+# Load CNN models
+# ============================
+cnn_models = {
+    "CNN-256": tf.keras.models.load_model(os.path.join(model_folder, "best_cnn_model256.h5")),
+    "CNN-640": tf.keras.models.load_model(os.path.join(model_folder, "best_cnn_model640.h5"))
+}
+
+cnn_classes = [
+    "algal_leaf_spot", "black_mold", "fruit_healthy", "healthy_leaf",
+    "insect_bite", "red_rust", "scab", "scorch", "yellow_leaf_disease"
+]
+
+# ============================
+# Tkinter GUI setup
+# ============================
+root = tk.Tk()
+root.title("🌿 Guava Disease - Multi-Model Testing 🌿")
+root.geometry("800x700")
+root.configure(bg="white")
+
+# ----------------------------
+# Title and subtitle (first window)
+# ----------------------------
+title_label = tk.Label(root, text="🌿 Guava Disease - Multi-Model Testing 🌿",
+                       font=("Arial", 18, "bold"), bg="white", fg="lightblue")
+title_label.place(relx=0.5, rely=0.15, anchor="center")
+
+subtitle_label = tk.Label(root, text="CSE202402034",
+                          font=("Arial", 14, "bold"), bg="white", fg="lightblue")
+subtitle_label.place(relx=0.5, rely=0.25, anchor="center")
+
+# ----------------------------
+# Frames for 3x3 grid results
+# ----------------------------
+frames = [[tk.Frame(root, bg="lightblue") for _ in range(3)] for _ in range(3)]
+labels_img = [[tk.Label(frames[i][j], bg="lightblue") for j in range(3)] for i in range(3)]
+labels_text = [[tk.Label(frames[i][j], text="", bg="lightblue", font=("Arial", 8, "bold")) for j in range(3)] for i in range(3)]
+
+for i in range(3):
+    for j in range(3):
+        frames[i][j].grid(row=i, column=j, padx=2, pady=2)
+        labels_text[i][j].pack()
+        labels_img[i][j].pack()
+
+# ----------------------------
+# Helper functions
+# ----------------------------
+def cv2_to_tk(img, size=(220,140)):
+    img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    img_pil = Image.fromarray(img_rgb)
+    img_pil = img_pil.resize(size)
+    return ImageTk.PhotoImage(img_pil)
+
+def overlay_text(img, text):
+    img_pil = Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
+    draw = ImageDraw.Draw(img_pil)
+    font = ImageFont.load_default()
+    draw.text((3,3), text, fill=(255,0,0), font=font)
+    return cv2.cvtColor(np.array(img_pil), cv2.COLOR_RGB2BGR)
+
+# ----------------------------
+# Detection function
+# ----------------------------
+def detect_all_models():
+    file_path = filedialog.askopenfilename(
+        title="Select an Image",
+        filetypes=[("Image files", "*.jpg *.jpeg *.png")]
+    )
+    if not file_path:
+        return
+
+    # Change background to result window
+    root.configure(bg="lightblue")
+    title_label.place_forget()
+    subtitle_label.place_forget()
+
+    img_bgr = cv2.imread(file_path)
+    if img_bgr is None:
+        messagebox.showerror("Error", "Failed to load image!")
+        return
+
+    # Original image
+    labels_text[0][1].config(text="Original Image")
+    tk_img_main = cv2_to_tk(img_bgr, size=(250,160))
+    labels_img[0][1].configure(image=tk_img_main)
+    labels_img[0][1].image = tk_img_main
+
+    # ----------------------------
+    # YOLO models
+    # ----------------------------
+    yolo_positions = [(1,0), (1,1), (1,2)]
+    yolo_scores = {}
+
+    for (name, model), (r,c) in zip(yolo_models.items(), yolo_positions):
+        results = model(file_path)
+        result = results[0]
+        img_copy = img_bgr.copy()
+        conf_list = []
+        text_label_list = []
+
+        if result.boxes is not None and len(result.boxes) > 0:
+            for box in result.boxes:
+                x1, y1, x2, y2 = map(int, box.xyxy[0])
+                cls_id = int(box.cls[0].item())
+                conf = float(box.conf[0].item())
+                label = model.names.get(cls_id, f"class_{cls_id}")
+                text_label_list.append(f"{label} ({conf:.1%})")
+                conf_list.append(conf)
+
+                # Draw detection
+                cv2.rectangle(img_copy, (x1,y1), (x2,y2), (0,255,0), 2)
+                text = f"{label} {conf:.1%}"
+                ((text_w, text_h), _) = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, 0.4, 1)
+                cv2.rectangle(img_copy, (x1, max(y1 - text_h - 5, 0)),
+                              (x1 + text_w, y1), (0,255,0), -1)
+                cv2.putText(img_copy, text, (x1, y1 - 3),
+                            cv2.FONT_HERSHEY_SIMPLEX, 0.4, (0,0,0), 1)
+        else:
+            text_label_list.append("No detections")
+            conf_list.append(0.0)
+            cv2.putText(img_copy, "No detections", (5,20),
+                        cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0,0,255), 1)
+
+        labels_text[r][c].config(text=f"{name}\n" + ", ".join(text_label_list))
+        tk_img_yolo = cv2_to_tk(img_copy, size=(220,140))
+        labels_img[r][c].configure(image=tk_img_yolo)
+        labels_img[r][c].image = tk_img_yolo
+
+        yolo_scores[name] = np.mean(conf_list) if conf_list else 0.0
+
+    # ----------------------------
+    # CNN models (FIXED)
+    # ----------------------------
+    cnn_positions = [(2,0), (2,2)]
+    cnn_scores = {}
+
+    for (name, cnn), (r,c) in zip(cnn_models.items(), cnn_positions):
+        input_shape = cnn.input_shape[1:3]  # Model input
+        img_resized = cv2.resize(img_bgr, input_shape)
+
+        # Convert BGR to RGB
+        img_rgb = cv2.cvtColor(img_resized, cv2.COLOR_BGR2RGB)
+        img_array = np.expand_dims(img_rgb.astype(np.float32) / 255.0, axis=0)
+
+        preds = cnn.predict(img_array, verbose=0)
+        class_id = int(np.argmax(preds))
+        confidence = float(np.max(preds))
+        class_name = cnn_classes[class_id]
+
+        text_label = f"{name}: {class_name} ({confidence*100:.2f}%)"
+        img_overlay = overlay_text(img_resized, text_label)
+        labels_text[r][c].config(text=text_label)
+
+        tk_img_cnn = cv2_to_tk(img_overlay, size=(220,140))
+        labels_img[r][c].configure(image=tk_img_cnn)
+        labels_img[r][c].image = tk_img_cnn
+
+        cnn_scores[name] = confidence
+
+    # ----------------------------
+    # Best models summary
+    # ----------------------------
+    best_yolo_val = max(yolo_scores.values()) if yolo_scores else 0
+    best_yolo_models = [name for name, val in yolo_scores.items() if val == best_yolo_val]
+
+    best_cnn_val = max(cnn_scores.values()) if cnn_scores else 0
+    best_cnn_models = [name for name, val in cnn_scores.items() if val == best_cnn_val]
+
+    summary_text = (
+        "Best YOLO: " + ", ".join([f"{name} ({yolo_scores[name]*100:.2f}%)" for name in best_yolo_models]) +
+        "\nBest CNN: " + ", ".join([f"{name} ({cnn_scores[name]*100:.2f}%)" for name in best_cnn_models])
+    )
+
+    labels_text[2][1].config(text=summary_text)
+    labels_img[2][1].configure(image="")
+
+# ----------------------------
+# Select image button
+# ----------------------------
+select_button = tk.Button(
+    root,
+    text="📂 Select Image & Test All Models",
+    command=lambda: detect_all_models_wrapper(),
+    bg="darkgreen", fg="white",
+    font=("Arial", 12, "bold"), padx=8, pady=5
+)
+select_button.place(relx=0.5, rely=0.35, anchor="center")
+
+first_click = True
+def move_button_below_grid():
+    select_button.place_forget()
+    select_button.grid(row=4, column=1, pady=10)
+
+def detect_all_models_wrapper():
+    global first_click
+    detect_all_models()
+    if first_click:
+        move_button_below_grid()
+        first_click = False
+
+# ----------------------------
+# Run GUI
+# ----------------------------
+root.mainloop()
