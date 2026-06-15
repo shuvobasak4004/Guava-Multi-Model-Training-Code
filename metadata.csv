@@ -1,0 +1,1110 @@
+image_id,filename,class_label,collection_date,location,latitude,longitude,width,height,format,file_size_kb,temperature_c,humidity_percent,weather_condition
+1,algal_leaf_spot_01.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.14,27.2,85,Cloudy
+2,algal_leaf_spot_02.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,143.39,27.2,85,Cloudy
+3,algal_leaf_spot_03.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,157.38,27.2,85,Cloudy
+4,algal_leaf_spot_04.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,125.91,27.2,85,Cloudy
+5,algal_leaf_spot_05.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,107.75,27.2,85,Cloudy
+6,algal_leaf_spot_06.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,73.59,27.2,85,Cloudy
+7,algal_leaf_spot_07.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,71.97,27.2,85,Cloudy
+8,algal_leaf_spot_08.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,68.59,27.2,85,Cloudy
+9,algal_leaf_spot_09.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,72.63,27.2,85,Cloudy
+10,algal_leaf_spot_10.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,79.86,27.2,85,Cloudy
+11,algal_leaf_spot_100.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,108.55,26.1,92,Rainy
+12,algal_leaf_spot_101.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,101.67,26.1,92,Rainy
+13,algal_leaf_spot_102.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.22,26.1,92,Rainy
+14,algal_leaf_spot_103.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,43.91,26.1,92,Rainy
+15,algal_leaf_spot_104.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,59.62,26.1,92,Rainy
+16,algal_leaf_spot_105.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.09,26.1,92,Rainy
+17,algal_leaf_spot_106.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.02,26.1,92,Rainy
+18,algal_leaf_spot_107.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,60.82,26.1,92,Rainy
+19,algal_leaf_spot_108.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,57.47,26.1,92,Rainy
+20,algal_leaf_spot_109.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,66.09,26.1,92,Rainy
+21,algal_leaf_spot_11.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,76.05,27.2,85,Cloudy
+22,algal_leaf_spot_110.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,66.14,26.1,92,Rainy
+23,algal_leaf_spot_111.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,58.46,26.1,92,Rainy
+24,algal_leaf_spot_112.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,50.12,26.1,92,Rainy
+25,algal_leaf_spot_113.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.39,26.1,92,Rainy
+26,algal_leaf_spot_114.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.7,26.1,92,Rainy
+27,algal_leaf_spot_115.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,76.31,26.1,92,Rainy
+28,algal_leaf_spot_116.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,81.93,26.1,92,Rainy
+29,algal_leaf_spot_117.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.39,26.1,92,Rainy
+30,algal_leaf_spot_118.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,57.71,26.1,92,Rainy
+31,algal_leaf_spot_119.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,76.31,26.1,92,Rainy
+32,algal_leaf_spot_12.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.71,27.2,85,Cloudy
+33,algal_leaf_spot_13.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,74.39,27.2,85,Cloudy
+34,algal_leaf_spot_14.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,54.63,27.2,85,Cloudy
+35,algal_leaf_spot_15.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,60.76,27.2,85,Cloudy
+36,algal_leaf_spot_16.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,66.09,27.2,85,Cloudy
+37,algal_leaf_spot_17.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.92,27.2,85,Cloudy
+38,algal_leaf_spot_18.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,73.42,27.2,85,Cloudy
+39,algal_leaf_spot_19.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,59.96,27.2,85,Cloudy
+40,algal_leaf_spot_20.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.13,27.2,85,Cloudy
+41,algal_leaf_spot_21.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,82.16,27.2,85,Cloudy
+42,algal_leaf_spot_22.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,56.22,27.2,85,Cloudy
+43,algal_leaf_spot_23.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,46.46,27.2,85,Cloudy
+44,algal_leaf_spot_24.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.71,27.2,85,Cloudy
+45,algal_leaf_spot_25.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,60.75,27.2,85,Cloudy
+46,algal_leaf_spot_26.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,67.82,27.2,85,Cloudy
+47,algal_leaf_spot_27.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,61.82,27.2,85,Cloudy
+48,algal_leaf_spot_28.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.71,27.2,85,Cloudy
+49,algal_leaf_spot_29.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.13,27.2,85,Cloudy
+50,algal_leaf_spot_30.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,67.31,27.2,85,Cloudy
+51,algal_leaf_spot_31.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.34,27.2,85,Cloudy
+52,algal_leaf_spot_32.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.02,27.2,85,Cloudy
+53,algal_leaf_spot_33.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,47.21,27.2,85,Cloudy
+54,algal_leaf_spot_34.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,67.82,27.2,85,Cloudy
+55,algal_leaf_spot_35.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,69.8,27.2,85,Cloudy
+56,algal_leaf_spot_36.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,68.81,27.2,85,Cloudy
+57,algal_leaf_spot_37.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,51.29,27.2,85,Cloudy
+58,algal_leaf_spot_38.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,59.24,27.2,85,Cloudy
+59,algal_leaf_spot_39.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.13,27.2,85,Cloudy
+60,algal_leaf_spot_40.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,44.45,27.2,85,Cloudy
+61,algal_leaf_spot_41.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.07,27.2,85,Cloudy
+62,algal_leaf_spot_42.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,76.31,27.2,85,Cloudy
+63,algal_leaf_spot_43.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,58.44,27.2,85,Cloudy
+64,algal_leaf_spot_44.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.75,27.2,85,Cloudy
+65,algal_leaf_spot_45.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,82.16,27.2,85,Cloudy
+66,algal_leaf_spot_46.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,87.91,27.2,85,Cloudy
+67,algal_leaf_spot_47.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,85.03,27.2,85,Cloudy
+68,algal_leaf_spot_48.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,70.77,27.2,85,Cloudy
+69,algal_leaf_spot_49.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.74,27.2,85,Cloudy
+70,algal_leaf_spot_50.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,78.45,27.2,85,Cloudy
+71,algal_leaf_spot_51.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,78.24,27.2,85,Cloudy
+72,algal_leaf_spot_52.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.52,27.2,85,Cloudy
+73,algal_leaf_spot_53.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.02,27.2,85,Cloudy
+74,algal_leaf_spot_54.jpg,algal_leaf_spot,8/20/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,69.9,27.2,85,Cloudy
+75,algal_leaf_spot_55.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,71.73,26.1,92,Rainy
+76,algal_leaf_spot_56.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,111.37,26.1,92,Rainy
+77,algal_leaf_spot_57.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,114.36,26.1,92,Rainy
+78,algal_leaf_spot_58.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.27,26.1,92,Rainy
+79,algal_leaf_spot_59.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,121.49,26.1,92,Rainy
+80,algal_leaf_spot_60.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.28,26.1,92,Rainy
+81,algal_leaf_spot_61.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.41,26.1,92,Rainy
+82,algal_leaf_spot_62.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.99,26.1,92,Rainy
+83,algal_leaf_spot_63.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.41,26.1,92,Rainy
+84,algal_leaf_spot_64.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,93.45,26.1,92,Rainy
+85,algal_leaf_spot_65.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.95,26.1,92,Rainy
+86,algal_leaf_spot_66.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,162.32,26.1,92,Rainy
+87,algal_leaf_spot_67.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.41,26.1,92,Rainy
+88,algal_leaf_spot_68.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.49,26.1,92,Rainy
+89,algal_leaf_spot_69.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.55,26.1,92,Rainy
+90,algal_leaf_spot_70.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.08,26.1,92,Rainy
+91,algal_leaf_spot_71.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.25,26.1,92,Rainy
+92,algal_leaf_spot_72.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.82,26.1,92,Rainy
+93,algal_leaf_spot_73.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.8,26.1,92,Rainy
+94,algal_leaf_spot_74.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.76,26.1,92,Rainy
+95,algal_leaf_spot_75.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,116.43,26.1,92,Rainy
+96,algal_leaf_spot_76.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.54,26.1,92,Rainy
+97,algal_leaf_spot_77.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.46,26.1,92,Rainy
+98,algal_leaf_spot_78.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,123.02,26.1,92,Rainy
+99,algal_leaf_spot_79.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,118.07,26.1,92,Rainy
+100,algal_leaf_spot_80.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.52,26.1,92,Rainy
+101,algal_leaf_spot_81.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,125.01,26.1,92,Rainy
+102,algal_leaf_spot_82.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.92,26.1,92,Rainy
+103,algal_leaf_spot_83.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,90.15,26.1,92,Rainy
+104,algal_leaf_spot_84.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.91,26.1,92,Rainy
+105,algal_leaf_spot_85.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.46,26.1,92,Rainy
+106,algal_leaf_spot_86.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,119.27,26.1,92,Rainy
+107,algal_leaf_spot_87.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,87.62,26.1,92,Rainy
+108,algal_leaf_spot_88.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.6,26.1,92,Rainy
+109,algal_leaf_spot_89.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.38,26.1,92,Rainy
+110,algal_leaf_spot_90.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,107.23,26.1,92,Rainy
+111,algal_leaf_spot_91.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.33,26.1,92,Rainy
+112,algal_leaf_spot_92.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,120.32,26.1,92,Rainy
+113,algal_leaf_spot_93.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,121.02,26.1,92,Rainy
+114,algal_leaf_spot_94.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.96,26.1,92,Rainy
+115,algal_leaf_spot_95.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.77,26.1,92,Rainy
+116,algal_leaf_spot_96.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.34,26.1,92,Rainy
+117,algal_leaf_spot_97.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,82.95,26.1,92,Rainy
+118,algal_leaf_spot_98.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.19,26.1,92,Rainy
+119,algal_leaf_spot_99.jpg,algal_leaf_spot,8/22/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,82.71,26.1,92,Rainy
+120,fruit_black_mold_01.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,46.74,27.8,81,Cloudy
+121,fruit_black_mold_02.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,102.8,27.8,81,Cloudy
+122,fruit_black_mold_03.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,65.33,27.8,81,Cloudy
+123,fruit_black_mold_04.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,77.56,27.8,81,Cloudy
+124,fruit_black_mold_05.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,72.76,27.8,81,Cloudy
+125,fruit_black_mold_06.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,78.48,27.8,81,Cloudy
+126,fruit_black_mold_07.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,71.03,27.8,81,Cloudy
+127,fruit_black_mold_08.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,93.83,27.8,81,Cloudy
+128,fruit_black_mold_09.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,97.79,27.8,81,Cloudy
+129,fruit_black_mold_10.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,88.49,27.8,81,Cloudy
+130,fruit_black_mold_11.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,81.98,27.8,81,Cloudy
+131,fruit_black_mold_12.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,61.01,27.8,81,Cloudy
+132,fruit_black_mold_13.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,77.96,27.8,81,Cloudy
+133,fruit_black_mold_14.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,67.94,27.8,81,Cloudy
+134,fruit_black_mold_15.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,44.54,27.8,81,Cloudy
+135,fruit_black_mold_16.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,51.9,27.8,81,Cloudy
+136,fruit_black_mold_17.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,72.5,27.8,81,Cloudy
+137,fruit_black_mold_18.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,48.7,27.8,81,Cloudy
+138,fruit_black_mold_19.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,55.69,27.8,81,Cloudy
+139,fruit_black_mold_20.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,56.76,27.8,81,Cloudy
+140,fruit_black_mold_21.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,69.51,27.8,81,Cloudy
+141,fruit_black_mold_22.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,92.14,27.8,81,Cloudy
+142,fruit_black_mold_23.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,62.45,27.8,81,Cloudy
+143,fruit_black_mold_24.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,44.28,27.8,81,Cloudy
+144,fruit_black_mold_25.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,53.28,27.8,81,Cloudy
+145,fruit_black_mold_26.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,64.99,27.8,81,Cloudy
+146,fruit_black_mold_27.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,68.91,27.8,81,Cloudy
+147,fruit_black_mold_28.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,55.33,27.8,81,Cloudy
+148,fruit_black_mold_29.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,73.1,27.8,81,Cloudy
+149,fruit_black_mold_30.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,74.79,27.8,81,Cloudy
+150,fruit_black_mold_31.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,64.13,27.8,81,Cloudy
+151,fruit_black_mold_32.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,98.58,27.8,81,Cloudy
+152,fruit_black_mold_33.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,71.77,27.8,81,Cloudy
+153,fruit_black_mold_34.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,87.86,27.8,81,Cloudy
+154,fruit_black_mold_35.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,76.44,27.8,81,Cloudy
+155,fruit_black_mold_36.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,74.81,27.8,81,Cloudy
+156,fruit_black_mold_37.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,87.12,27.8,81,Cloudy
+157,fruit_black_mold_38.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,67.31,27.8,81,Cloudy
+158,fruit_black_mold_39.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,77.61,27.8,81,Cloudy
+159,fruit_black_mold_40.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,76.66,27.8,81,Cloudy
+160,fruit_black_mold_41.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,57.61,27.8,81,Cloudy
+161,fruit_black_mold_42.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,68.46,27.8,81,Cloudy
+162,fruit_black_mold_43.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,63.04,27.8,81,Cloudy
+163,fruit_black_mold_44.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,76.1,27.8,81,Cloudy
+164,fruit_black_mold_45.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,73.25,27.8,81,Cloudy
+165,fruit_black_mold_46.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,54.02,27.8,81,Cloudy
+166,fruit_black_mold_47.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,55.71,27.8,81,Cloudy
+167,fruit_black_mold_48.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,51,27.8,81,Cloudy
+168,fruit_black_mold_49.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,78.52,27.8,81,Cloudy
+169,fruit_black_mold_50.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,86.54,27.8,81,Cloudy
+170,fruit_black_mold_51.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,91.77,27.8,81,Cloudy
+171,fruit_black_mold_52.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,87,27.8,81,Cloudy
+172,fruit_black_mold_53.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,81.16,27.8,81,Cloudy
+173,fruit_black_mold_54.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,82.58,27.8,81,Cloudy
+174,fruit_black_mold_55.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,27.31,27.8,81,Cloudy
+175,fruit_black_mold_56.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,37.08,27.8,81,Cloudy
+176,fruit_black_mold_57.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,43.61,27.8,81,Cloudy
+177,fruit_black_mold_58.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,25.11,27.8,81,Cloudy
+178,fruit_black_mold_59.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,36.71,27.8,81,Cloudy
+179,fruit_black_mold_60.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,39.73,27.8,81,Cloudy
+180,fruit_black_mold_61.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,48.72,27.8,81,Cloudy
+181,fruit_black_mold_62.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,24.57,27.8,81,Cloudy
+182,fruit_black_mold_63.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,37.53,27.8,81,Cloudy
+183,fruit_black_mold_64.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,43.05,27.8,81,Cloudy
+184,fruit_black_mold_65.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,37.2,27.8,81,Cloudy
+185,fruit_black_mold_66.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,25.11,27.8,81,Cloudy
+186,fruit_black_mold_67.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,37.36,27.8,81,Cloudy
+187,fruit_black_mold_68.jpg,fruit_black_mold,9/7/2025,Kawran Bazar,23.75259095,90.39411109,640,640,JPEG,26.4,27.8,81,Cloudy
+188,fruit_healthy_01.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,51.2,27.2,85,Cloudy
+189,fruit_healthy_02.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,95.7,27.2,85,Cloudy
+190,fruit_healthy_03.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,96.24,27.2,85,Cloudy
+191,fruit_healthy_04.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,91.29,27.2,85,Cloudy
+192,fruit_healthy_05.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,74.72,27.2,85,Cloudy
+193,fruit_healthy_06.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,70.71,27.2,85,Cloudy
+194,fruit_healthy_07.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,145.69,27.2,85,Cloudy
+195,fruit_healthy_08.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,69.54,27.2,85,Cloudy
+196,fruit_healthy_09.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,86.27,27.2,85,Cloudy
+197,fruit_healthy_10.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,80.55,27.2,85,Cloudy
+198,fruit_healthy_100.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,38.31,28.9,85,Sunny
+199,fruit_healthy_101.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,78.85,28.9,85,Sunny
+200,fruit_healthy_102.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,79.58,28.9,85,Sunny
+201,fruit_healthy_103.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,69.03,28.9,85,Sunny
+202,fruit_healthy_104.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,32.76,28.9,85,Sunny
+203,fruit_healthy_105.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,66.74,28.9,85,Sunny
+204,fruit_healthy_106.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,39.82,28.9,85,Sunny
+205,fruit_healthy_107.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.05,28.9,85,Sunny
+206,fruit_healthy_108.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,66.11,28.9,85,Sunny
+207,fruit_healthy_109.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,113.44,28.9,85,Sunny
+208,fruit_healthy_11.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,81.94,27.2,85,Cloudy
+209,fruit_healthy_110.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,116.25,28.9,85,Sunny
+210,fruit_healthy_111.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,48.09,28.9,85,Sunny
+211,fruit_healthy_112.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,69.14,28.9,85,Sunny
+212,fruit_healthy_113.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,72.4,28.9,85,Sunny
+213,fruit_healthy_114.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,31.04,28.9,85,Sunny
+214,fruit_healthy_115.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,54.89,28.9,85,Sunny
+215,fruit_healthy_116.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,47.87,28.9,85,Sunny
+216,fruit_healthy_117.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,48.29,28.9,85,Sunny
+217,fruit_healthy_118.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,38.3,28.9,85,Sunny
+218,fruit_healthy_119.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,88.85,28.9,85,Sunny
+219,fruit_healthy_12.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,84.61,27.2,85,Cloudy
+220,fruit_healthy_120.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,73.92,28.9,85,Sunny
+221,fruit_healthy_121.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,71.48,28.9,85,Sunny
+222,fruit_healthy_122.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,83.22,28.9,85,Sunny
+223,fruit_healthy_123.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.8,28.9,85,Sunny
+224,fruit_healthy_124.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,57.58,28.9,85,Sunny
+225,fruit_healthy_125.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,67.99,28.9,85,Sunny
+226,fruit_healthy_126.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,61.78,28.9,85,Sunny
+227,fruit_healthy_127.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,68.07,28.9,85,Sunny
+228,fruit_healthy_128.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.72,28.9,85,Sunny
+229,fruit_healthy_129.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,56.72,28.9,85,Sunny
+230,fruit_healthy_13.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,75.77,27.2,85,Cloudy
+231,fruit_healthy_130.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,52.52,28.9,85,Sunny
+232,fruit_healthy_131.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,54.24,28.9,85,Sunny
+233,fruit_healthy_132.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,50.67,28.9,85,Sunny
+234,fruit_healthy_133.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,42.39,28.9,85,Sunny
+235,fruit_healthy_134.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,56.84,28.9,85,Sunny
+236,fruit_healthy_135.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,62.5,28.9,85,Sunny
+237,fruit_healthy_136.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,63.06,28.9,85,Sunny
+238,fruit_healthy_137.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,61.12,28.9,85,Sunny
+239,fruit_healthy_138.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,75.96,28.9,85,Sunny
+240,fruit_healthy_139.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,104.64,28.9,85,Sunny
+241,fruit_healthy_14.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,87.84,27.2,85,Cloudy
+242,fruit_healthy_140.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,97.91,28.9,85,Sunny
+243,fruit_healthy_141.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,86.17,28.9,85,Sunny
+244,fruit_healthy_142.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,85.08,28.9,85,Sunny
+245,fruit_healthy_143.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,76.91,28.9,85,Sunny
+246,fruit_healthy_144.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,70.62,28.9,85,Sunny
+247,fruit_healthy_145.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,72.06,28.9,85,Sunny
+248,fruit_healthy_146.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,80.4,28.9,85,Sunny
+249,fruit_healthy_147.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,79.62,28.9,85,Sunny
+250,fruit_healthy_148.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,90.85,28.9,85,Sunny
+251,fruit_healthy_149.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,85.58,28.9,85,Sunny
+252,fruit_healthy_15.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,67.66,27.2,85,Cloudy
+253,fruit_healthy_150.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,83.41,28.9,85,Sunny
+254,fruit_healthy_151.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,86.15,28.9,85,Sunny
+255,fruit_healthy_152.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,78.19,27.2,85,Cloudy
+256,fruit_healthy_153.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,68.58,27.2,85,Cloudy
+257,fruit_healthy_154.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.77,27.2,85,Cloudy
+258,fruit_healthy_155.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,78.17,27.2,85,Cloudy
+259,fruit_healthy_156.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,87.81,27.2,85,Cloudy
+260,fruit_healthy_157.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,63.92,27.2,85,Cloudy
+261,fruit_healthy_158.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,63.41,27.2,85,Cloudy
+262,fruit_healthy_159.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,73.7,27.2,85,Cloudy
+263,fruit_healthy_16.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,78,27.2,85,Cloudy
+264,fruit_healthy_160.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,74.01,27.2,85,Cloudy
+265,fruit_healthy_161.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,78.99,27.2,85,Cloudy
+266,fruit_healthy_162.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,79.01,27.2,85,Cloudy
+267,fruit_healthy_163.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,90.66,27.2,85,Cloudy
+268,fruit_healthy_164.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,114.1,27.2,85,Cloudy
+269,fruit_healthy_165.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,95.36,27.2,85,Cloudy
+270,fruit_healthy_166.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,95.26,27.2,85,Cloudy
+271,fruit_healthy_167.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,74.78,27.2,85,Cloudy
+272,fruit_healthy_168.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,80.22,27.2,85,Cloudy
+273,fruit_healthy_169.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,87.88,27.2,85,Cloudy
+274,fruit_healthy_17.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,92.56,27.2,85,Cloudy
+275,fruit_healthy_170.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,98.81,27.2,85,Cloudy
+276,fruit_healthy_171.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,89.26,27.2,85,Cloudy
+277,fruit_healthy_172.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,86.09,27.2,85,Cloudy
+278,fruit_healthy_173.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,102.06,27.2,85,Cloudy
+279,fruit_healthy_174.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,75.07,27.2,85,Cloudy
+280,fruit_healthy_175.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,91.75,27.2,85,Cloudy
+281,fruit_healthy_176.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.25,27.2,85,Cloudy
+282,fruit_healthy_177.jpg,fruit_healthy,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,126.31,27.2,85,Cloudy
+283,fruit_healthy_18.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,82.97,27.2,85,Cloudy
+284,fruit_healthy_19.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,75.19,27.2,85,Cloudy
+285,fruit_healthy_20.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,69.92,27.2,85,Cloudy
+286,fruit_healthy_21.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,90.69,27.2,85,Cloudy
+287,fruit_healthy_22.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,78.11,27.2,85,Cloudy
+288,fruit_healthy_23.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,66.86,27.2,85,Cloudy
+289,fruit_healthy_24.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,65.24,27.2,85,Cloudy
+290,fruit_healthy_25.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,64.16,27.2,85,Cloudy
+291,fruit_healthy_26.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,60.2,27.2,85,Cloudy
+292,fruit_healthy_27.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,68.79,27.2,85,Cloudy
+293,fruit_healthy_28.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,57.28,27.2,85,Cloudy
+294,fruit_healthy_29.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,64.3,27.2,85,Cloudy
+295,fruit_healthy_30.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,69.57,27.2,85,Cloudy
+296,fruit_healthy_31.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,58.4,27.2,85,Cloudy
+297,fruit_healthy_32.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,65.01,27.2,85,Cloudy
+298,fruit_healthy_33.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,76.22,27.2,85,Cloudy
+299,fruit_healthy_34.jpg,fruit_healthy,9/4/2025,Farmgate Fruit Market,23.75840057,90.3889733,640,640,JPEG,65.55,27.2,85,Cloudy
+300,fruit_healthy_35.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,76.98,28.9,85,Sunny
+301,fruit_healthy_36.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,93.34,28.9,85,Sunny
+302,fruit_healthy_37.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,88.09,28.9,85,Sunny
+303,fruit_healthy_38.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,85.77,28.9,85,Sunny
+304,fruit_healthy_39.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,68.39,28.9,85,Sunny
+305,fruit_healthy_40.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,81.73,28.9,85,Sunny
+306,fruit_healthy_41.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,81.73,28.9,85,Sunny
+307,fruit_healthy_42.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.45,28.9,85,Sunny
+308,fruit_healthy_43.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,64.89,28.9,85,Sunny
+309,fruit_healthy_44.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,99.72,28.9,85,Sunny
+310,fruit_healthy_45.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,85.41,28.9,85,Sunny
+311,fruit_healthy_46.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,74.42,28.9,85,Sunny
+312,fruit_healthy_47.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,38.25,28.9,85,Sunny
+313,fruit_healthy_48.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,58.41,28.9,85,Sunny
+314,fruit_healthy_49.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,76.22,28.9,85,Sunny
+315,fruit_healthy_50.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,66.96,28.9,85,Sunny
+316,fruit_healthy_51.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,52.3,28.9,85,Sunny
+317,fruit_healthy_52.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,57.62,28.9,85,Sunny
+318,fruit_healthy_53.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,51.47,28.9,85,Sunny
+319,fruit_healthy_54.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,61.28,28.9,85,Sunny
+320,fruit_healthy_55.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,55.25,28.9,85,Sunny
+321,fruit_healthy_56.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,34.06,28.9,85,Sunny
+322,fruit_healthy_57.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,58.29,28.9,85,Sunny
+323,fruit_healthy_58.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,59.64,28.9,85,Sunny
+324,fruit_healthy_59.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,128.17,28.9,85,Sunny
+325,fruit_healthy_60.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,35.88,28.9,85,Sunny
+326,fruit_healthy_61.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,33.87,28.9,85,Sunny
+327,fruit_healthy_62.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,78.7,28.9,85,Sunny
+328,fruit_healthy_63.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.88,28.9,85,Sunny
+329,fruit_healthy_64.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,78.45,28.9,85,Sunny
+330,fruit_healthy_65.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,47.21,28.9,85,Sunny
+331,fruit_healthy_66.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,67.14,28.9,85,Sunny
+332,fruit_healthy_67.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,25.53,28.9,85,Sunny
+333,fruit_healthy_68.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,75.34,28.9,85,Sunny
+334,fruit_healthy_69.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,45.84,28.9,85,Sunny
+335,fruit_healthy_70.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,38.3,28.9,85,Sunny
+336,fruit_healthy_71.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,56.24,28.9,85,Sunny
+337,fruit_healthy_72.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,61.9,28.9,85,Sunny
+338,fruit_healthy_73.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,52.04,28.9,85,Sunny
+339,fruit_healthy_74.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,47.01,28.9,85,Sunny
+340,fruit_healthy_75.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,60.97,28.9,85,Sunny
+341,fruit_healthy_76.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,65.08,28.9,85,Sunny
+342,fruit_healthy_77.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,45.8,28.9,85,Sunny
+343,fruit_healthy_78.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,43.3,28.9,85,Sunny
+344,fruit_healthy_79.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,38.77,28.9,85,Sunny
+345,fruit_healthy_80.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,64.38,28.9,85,Sunny
+346,fruit_healthy_81.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,77.91,28.9,85,Sunny
+347,fruit_healthy_82.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,69.74,28.9,85,Sunny
+348,fruit_healthy_83.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,69.14,28.9,85,Sunny
+349,fruit_healthy_84.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,68.03,28.9,85,Sunny
+350,fruit_healthy_85.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,41.78,28.9,85,Sunny
+351,fruit_healthy_86.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,51.07,28.9,85,Sunny
+352,fruit_healthy_87.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,75.8,28.9,85,Sunny
+353,fruit_healthy_88.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,46.99,28.9,85,Sunny
+354,fruit_healthy_89.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,78.21,28.9,85,Sunny
+355,fruit_healthy_90.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,52.26,28.9,85,Sunny
+356,fruit_healthy_91.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,49.39,28.9,85,Sunny
+357,fruit_healthy_92.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,51.38,28.9,85,Sunny
+358,fruit_healthy_93.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,51.69,28.9,85,Sunny
+359,fruit_healthy_94.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,68.79,28.9,85,Sunny
+360,fruit_healthy_95.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,52.46,28.9,85,Sunny
+361,fruit_healthy_96.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,69.56,28.9,85,Sunny
+362,fruit_healthy_97.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,81.11,28.9,85,Sunny
+363,fruit_healthy_98.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,45.26,28.9,85,Sunny
+364,fruit_healthy_99.jpg,fruit_healthy,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,50.91,28.9,85,Sunny
+365,fruit_scab_01.jpg,fruit_scab,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,106.86,28.9,85,Sunny
+366,fruit_scab_02.jpg,fruit_scab,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,109.84,28.9,85,Sunny
+367,fruit_scab_03.jpg,fruit_scab,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,110.3,28.9,85,Sunny
+368,fruit_scab_04.jpg,fruit_scab,9/2/2025,"Guava Floating Market, Barisal",22.73372937,90.1832881,640,640,JPEG,83.78,28.9,85,Sunny
+369,fruit_scab_05.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,84.93,27.2,85,Cloudy
+370,fruit_scab_06.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,80.95,27.2,85,Cloudy
+371,fruit_scab_07.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,76.09,27.2,85,Cloudy
+372,fruit_scab_08.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,91.42,27.2,85,Cloudy
+373,fruit_scab_09.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,82.86,27.2,85,Cloudy
+374,fruit_scab_10.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,96.04,27.2,85,Cloudy
+375,fruit_scab_11.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,70.96,27.2,85,Cloudy
+376,fruit_scab_12.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,115.11,27.2,85,Cloudy
+377,fruit_scab_13.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,88.75,27.2,85,Cloudy
+378,fruit_scab_14.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,74.36,27.2,85,Cloudy
+379,fruit_scab_15.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,144.13,27.2,85,Cloudy
+380,fruit_scab_16.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,116.86,27.2,85,Cloudy
+381,fruit_scab_17.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,117.54,27.2,85,Cloudy
+382,fruit_scab_18.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,134.29,27.2,85,Cloudy
+383,fruit_scab_19.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,92.8,27.2,85,Cloudy
+384,fruit_scab_20.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,111.84,27.2,85,Cloudy
+385,fruit_scab_21.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,77.81,27.2,85,Cloudy
+386,fruit_scab_22.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,91.1,27.2,85,Cloudy
+387,fruit_scab_23.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,100.93,27.2,85,Cloudy
+388,fruit_scab_24.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,73.32,27.2,85,Cloudy
+389,fruit_scab_25.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,106.1,27.2,85,Cloudy
+390,fruit_scab_26.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,72.67,27.2,85,Cloudy
+391,fruit_scab_27.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,95.81,27.2,85,Cloudy
+392,fruit_scab_28.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,77.55,27.2,85,Cloudy
+393,fruit_scab_29.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,80.7,27.2,85,Cloudy
+394,fruit_scab_30.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,90.59,27.2,85,Cloudy
+395,fruit_scab_31.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,114.34,27.2,85,Cloudy
+396,fruit_scab_32.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,98.63,27.2,85,Cloudy
+397,fruit_scab_33.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,100.08,27.2,85,Cloudy
+398,fruit_scab_34.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,82.49,27.2,85,Cloudy
+399,fruit_scab_35.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,156.31,27.2,85,Cloudy
+400,fruit_scab_36.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.85,27.2,85,Cloudy
+401,fruit_scab_37.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.5,27.2,85,Cloudy
+402,fruit_scab_38.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,83.32,27.2,85,Cloudy
+403,fruit_scab_39.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,83.17,27.2,85,Cloudy
+404,fruit_scab_40.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,76.5,27.2,85,Cloudy
+405,fruit_scab_41.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,100.6,27.2,85,Cloudy
+406,fruit_scab_42.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,79.78,27.2,85,Cloudy
+407,fruit_scab_43.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,86.54,27.2,85,Cloudy
+408,fruit_scab_44.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,88.3,27.2,85,Cloudy
+409,fruit_scab_45.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,93.22,27.2,85,Cloudy
+410,fruit_scab_46.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,85.06,27.2,85,Cloudy
+411,fruit_scab_47.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,119.51,27.2,85,Cloudy
+412,fruit_scab_48.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,103.32,27.2,85,Cloudy
+413,fruit_scab_49.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,139.56,27.2,85,Cloudy
+414,fruit_scab_50.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,126.85,27.2,85,Cloudy
+415,fruit_scab_51.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,95.95,27.2,85,Cloudy
+416,fruit_scab_52.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,100.64,27.2,85,Cloudy
+417,fruit_scab_53.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,94.71,27.2,85,Cloudy
+418,fruit_scab_54.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,101.27,27.2,85,Cloudy
+419,fruit_scab_55.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,87.46,27.2,85,Cloudy
+420,fruit_scab_56.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,75.78,27.2,85,Cloudy
+421,fruit_scab_57.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,100.48,27.2,85,Cloudy
+422,fruit_scab_58.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,80,27.2,85,Cloudy
+423,fruit_scab_59.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,58.9,27.2,85,Cloudy
+424,fruit_scab_60.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.35,27.2,85,Cloudy
+425,fruit_scab_61.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,63.93,27.2,85,Cloudy
+426,fruit_scab_62.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,67.4,27.2,85,Cloudy
+427,fruit_scab_63.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,69.92,27.2,85,Cloudy
+428,fruit_scab_64.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,57.93,27.2,85,Cloudy
+429,fruit_scab_65.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,81.39,27.2,85,Cloudy
+430,fruit_scab_66.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,67.78,27.2,85,Cloudy
+431,fruit_scab_67.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,69.99,27.2,85,Cloudy
+432,fruit_scab_68.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,70.34,27.2,85,Cloudy
+433,fruit_scab_69.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,64.22,27.2,85,Cloudy
+434,fruit_scab_70.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,43.76,27.2,85,Cloudy
+435,fruit_scab_71.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,56.04,27.2,85,Cloudy
+436,fruit_scab_72.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,70.74,27.2,85,Cloudy
+437,fruit_scab_73.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,54.46,27.2,85,Cloudy
+438,fruit_scab_74.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,60.16,27.2,85,Cloudy
+439,fruit_scab_75.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,78.6,27.2,85,Cloudy
+440,fruit_scab_76.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,71.05,27.2,85,Cloudy
+441,fruit_scab_77.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,75.08,27.2,85,Cloudy
+442,fruit_scab_78.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,65.66,27.2,85,Cloudy
+443,fruit_scab_79.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,80.78,27.2,85,Cloudy
+444,fruit_scab_80.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,109.81,27.2,85,Cloudy
+445,fruit_scab_81.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,75.53,27.2,85,Cloudy
+446,fruit_scab_82.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,117.54,27.2,85,Cloudy
+447,fruit_scab_83.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,115.58,27.2,85,Cloudy
+448,fruit_scab_84.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,75.2,27.2,85,Cloudy
+449,fruit_scab_85.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,85.73,27.2,85,Cloudy
+450,fruit_scab_86.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,74.7,27.2,85,Cloudy
+451,fruit_scab_87.jpg,fruit_scab,9/4/2025,Savar Fruit Market,23.80499072,90.26169893,640,640,JPEG,124.82,27.2,85,Cloudy
+452,healthy_leaf_01.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.99,35,80,Sunny
+453,healthy_leaf_02.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.17,35,80,Sunny
+454,healthy_leaf_03.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,81.41,35,80,Sunny
+455,healthy_leaf_04.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,75.47,35,80,Sunny
+456,healthy_leaf_05.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,89.92,35,80,Sunny
+457,healthy_leaf_06.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,76.08,35,80,Sunny
+458,healthy_leaf_07.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,78.58,35,80,Sunny
+459,healthy_leaf_08.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,54.09,35,80,Sunny
+460,healthy_leaf_09.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,79.98,35,80,Sunny
+461,healthy_leaf_10.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.29,35,80,Sunny
+462,healthy_leaf_100.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,90.36,28.9,81,Sunny
+463,healthy_leaf_101.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,107.69,28.9,81,Sunny
+464,healthy_leaf_102.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,60.21,28.9,81,Sunny
+465,healthy_leaf_103.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.64,28.9,81,Sunny
+466,healthy_leaf_104.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.17,28.9,81,Sunny
+467,healthy_leaf_105.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.4,28.9,81,Sunny
+468,healthy_leaf_106.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,80.01,28.9,81,Sunny
+469,healthy_leaf_107.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,131.68,28.9,81,Sunny
+470,healthy_leaf_108.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.29,28.9,81,Sunny
+471,healthy_leaf_109.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.92,28.9,81,Sunny
+472,healthy_leaf_11.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.2,35,80,Sunny
+473,healthy_leaf_110.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.87,28.9,81,Sunny
+474,healthy_leaf_111.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.94,28.9,81,Sunny
+475,healthy_leaf_112.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.79,28.9,81,Sunny
+476,healthy_leaf_113.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.44,28.9,81,Sunny
+477,healthy_leaf_114.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.68,28.9,81,Sunny
+478,healthy_leaf_115.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,80.96,28.9,81,Sunny
+479,healthy_leaf_116.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.02,28.9,81,Sunny
+480,healthy_leaf_117.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.65,28.9,81,Sunny
+481,healthy_leaf_118.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.51,28.9,81,Sunny
+482,healthy_leaf_119.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.02,28.9,81,Sunny
+483,healthy_leaf_12.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.67,35,80,Sunny
+484,healthy_leaf_120.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.7,28.9,81,Sunny
+485,healthy_leaf_121.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.26,28.9,81,Sunny
+486,healthy_leaf_122.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.83,28.9,81,Sunny
+487,healthy_leaf_123.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,93.96,28.9,81,Sunny
+488,healthy_leaf_124.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,96.55,28.9,81,Sunny
+489,healthy_leaf_125.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.54,28.9,81,Sunny
+490,healthy_leaf_126.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.76,28.9,81,Sunny
+491,healthy_leaf_127.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.71,28.9,81,Sunny
+492,healthy_leaf_128.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.24,28.9,81,Sunny
+493,healthy_leaf_129.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,96.09,28.9,81,Sunny
+494,healthy_leaf_13.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.39,35,80,Sunny
+495,healthy_leaf_130.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,96.86,28.9,81,Sunny
+496,healthy_leaf_131.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.57,28.9,81,Sunny
+497,healthy_leaf_132.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.84,28.9,81,Sunny
+498,healthy_leaf_133.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.26,28.9,81,Sunny
+499,healthy_leaf_134.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,111.23,28.9,81,Sunny
+500,healthy_leaf_135.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,68.32,28.9,81,Sunny
+501,healthy_leaf_136.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.57,28.9,81,Sunny
+502,healthy_leaf_137.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,78.79,28.9,81,Sunny
+503,healthy_leaf_138.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.45,28.9,81,Sunny
+504,healthy_leaf_139.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.5,28.9,81,Sunny
+505,healthy_leaf_14.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,84.65,35,80,Sunny
+506,healthy_leaf_140.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104,28.9,81,Sunny
+507,healthy_leaf_141.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.43,28.9,81,Sunny
+508,healthy_leaf_142.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.69,28.9,81,Sunny
+509,healthy_leaf_143.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,90.71,28.9,81,Sunny
+510,healthy_leaf_144.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.36,28.9,81,Sunny
+511,healthy_leaf_145.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.98,28.9,81,Sunny
+512,healthy_leaf_146.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,101.28,28.9,81,Sunny
+513,healthy_leaf_147.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.56,28.9,81,Sunny
+514,healthy_leaf_148.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92,28.9,81,Sunny
+515,healthy_leaf_149.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.85,28.9,81,Sunny
+516,healthy_leaf_15.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,88.29,35,80,Sunny
+517,healthy_leaf_150.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.44,28.9,81,Sunny
+518,healthy_leaf_151.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,64.2,28.9,81,Sunny
+519,healthy_leaf_152.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.02,28.9,81,Sunny
+520,healthy_leaf_153.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.51,28.9,81,Sunny
+521,healthy_leaf_154.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,101.57,28.9,81,Sunny
+522,healthy_leaf_155.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.82,28.9,81,Sunny
+523,healthy_leaf_156.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.88,28.9,81,Sunny
+524,healthy_leaf_157.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,90.24,28.9,81,Sunny
+525,healthy_leaf_158.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.99,28.9,81,Sunny
+526,healthy_leaf_16.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.84,35,80,Sunny
+527,healthy_leaf_17.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,84.02,35,80,Sunny
+528,healthy_leaf_18.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,72.63,35,80,Sunny
+529,healthy_leaf_19.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,85.31,35,80,Sunny
+530,healthy_leaf_20.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,112.4,35,80,Sunny
+531,healthy_leaf_21.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,105.86,35,80,Sunny
+532,healthy_leaf_22.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,106.07,35,80,Sunny
+533,healthy_leaf_23.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.66,35,80,Sunny
+534,healthy_leaf_24.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,106.84,35,80,Sunny
+535,healthy_leaf_25.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,90.3,35,80,Sunny
+536,healthy_leaf_26.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,73.21,35,80,Sunny
+537,healthy_leaf_27.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.83,35,80,Sunny
+538,healthy_leaf_28.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.62,35,80,Sunny
+539,healthy_leaf_29.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.8,35,80,Sunny
+540,healthy_leaf_30.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,99.1,35,80,Sunny
+541,healthy_leaf_31.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,99.56,35,80,Sunny
+542,healthy_leaf_32.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,93.29,35,80,Sunny
+543,healthy_leaf_33.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.43,35,80,Sunny
+544,healthy_leaf_34.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,90.17,35,80,Sunny
+545,healthy_leaf_35.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,99.96,35,80,Sunny
+546,healthy_leaf_36.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.66,35,80,Sunny
+547,healthy_leaf_37.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.24,35,80,Sunny
+548,healthy_leaf_38.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,96.03,35,80,Sunny
+549,healthy_leaf_39.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,70.08,35,80,Sunny
+550,healthy_leaf_40.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,96.9,35,80,Sunny
+551,healthy_leaf_41.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,47.68,35,80,Sunny
+552,healthy_leaf_42.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,51.97,35,80,Sunny
+553,healthy_leaf_43.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,32.1,35,80,Sunny
+554,healthy_leaf_44.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,27.55,35,80,Sunny
+555,healthy_leaf_45.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.6,35,80,Sunny
+556,healthy_leaf_46.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,27.55,35,80,Sunny
+557,healthy_leaf_47.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,43.41,35,80,Sunny
+558,healthy_leaf_48.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,41.81,35,80,Sunny
+559,healthy_leaf_49.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,51.23,35,80,Sunny
+560,healthy_leaf_50.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,44.01,35,80,Sunny
+561,healthy_leaf_51.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,66.05,35,80,Sunny
+562,healthy_leaf_52.jpg,healthy_leaf,6/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.57,35,80,Sunny
+563,healthy_leaf_53.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,42.19,28.9,81,Sunny
+564,healthy_leaf_54.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.6,28.9,81,Sunny
+565,healthy_leaf_55.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,53.71,28.9,81,Sunny
+566,healthy_leaf_56.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,50.18,28.9,81,Sunny
+567,healthy_leaf_57.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.55,28.9,81,Sunny
+568,healthy_leaf_58.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,33.83,28.9,81,Sunny
+569,healthy_leaf_59.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,42.47,28.9,81,Sunny
+570,healthy_leaf_60.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,60.24,28.9,81,Sunny
+571,healthy_leaf_61.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,63.45,28.9,81,Sunny
+572,healthy_leaf_62.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.66,28.9,81,Sunny
+573,healthy_leaf_63.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,27.55,28.9,81,Sunny
+574,healthy_leaf_64.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,38.86,28.9,81,Sunny
+575,healthy_leaf_65.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.17,28.9,81,Sunny
+576,healthy_leaf_66.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,37.72,28.9,81,Sunny
+577,healthy_leaf_67.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.26,28.9,81,Sunny
+578,healthy_leaf_68.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,125.83,28.9,81,Sunny
+579,healthy_leaf_69.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,78.72,28.9,81,Sunny
+580,healthy_leaf_70.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,38.27,28.9,81,Sunny
+581,healthy_leaf_71.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,48.91,28.9,81,Sunny
+582,healthy_leaf_72.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.15,28.9,81,Sunny
+583,healthy_leaf_73.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,28.11,28.9,81,Sunny
+584,healthy_leaf_74.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,43.74,28.9,81,Sunny
+585,healthy_leaf_75.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.15,28.9,81,Sunny
+586,healthy_leaf_76.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,43.74,28.9,81,Sunny
+587,healthy_leaf_77.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.2,28.9,81,Sunny
+588,healthy_leaf_78.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,31.25,28.9,81,Sunny
+589,healthy_leaf_79.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,44.01,28.9,81,Sunny
+590,healthy_leaf_80.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,71.54,28.9,81,Sunny
+591,healthy_leaf_81.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,57.99,28.9,81,Sunny
+592,healthy_leaf_82.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.75,28.9,81,Sunny
+593,healthy_leaf_83.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,69.23,28.9,81,Sunny
+594,healthy_leaf_84.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,54.53,28.9,81,Sunny
+595,healthy_leaf_85.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,57.36,28.9,81,Sunny
+596,healthy_leaf_86.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.75,28.9,81,Sunny
+597,healthy_leaf_87.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.49,28.9,81,Sunny
+598,healthy_leaf_88.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,69.64,28.9,81,Sunny
+599,healthy_leaf_89.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.97,28.9,81,Sunny
+600,healthy_leaf_90.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,34.07,28.9,81,Sunny
+601,healthy_leaf_91.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,31.62,28.9,81,Sunny
+602,healthy_leaf_92.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.97,28.9,81,Sunny
+603,healthy_leaf_93.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,43.43,28.9,81,Sunny
+604,healthy_leaf_94.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,68.51,28.9,81,Sunny
+605,healthy_leaf_95.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.2,28.9,81,Sunny
+606,healthy_leaf_96.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.96,28.9,81,Sunny
+607,healthy_leaf_97.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,40.43,28.9,81,Sunny
+608,healthy_leaf_98.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,151.42,28.9,81,Sunny
+609,healthy_leaf_99.jpg,healthy_leaf,6/2/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,108.06,28.9,81,Sunny
+610,insect_bite_leaf_01.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,113.61,27.2,87,Cloudy
+611,insect_bite_leaf_02.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,133.57,27.2,87,Cloudy
+612,insect_bite_leaf_03.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.57,27.2,87,Cloudy
+613,insect_bite_leaf_04.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,86.32,27.2,87,Cloudy
+614,insect_bite_leaf_05.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,86.21,27.2,87,Cloudy
+615,insect_bite_leaf_06.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.03,27.2,87,Cloudy
+616,insect_bite_leaf_07.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.7,27.2,87,Cloudy
+617,insect_bite_leaf_08.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,87.72,27.2,87,Cloudy
+618,insect_bite_leaf_09.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.19,27.2,87,Cloudy
+619,insect_bite_leaf_10.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,48.97,27.2,87,Cloudy
+620,insect_bite_leaf_100.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.05,27.2,87,Cloudy
+621,insect_bite_leaf_101.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.12,27.2,87,Cloudy
+622,insect_bite_leaf_102.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.52,27.2,87,Cloudy
+623,insect_bite_leaf_103.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,30.69,27.2,87,Cloudy
+624,insect_bite_leaf_11.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,54.14,27.2,87,Cloudy
+625,insect_bite_leaf_12.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,36.43,27.2,87,Cloudy
+626,insect_bite_leaf_13.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,54.1,27.2,87,Cloudy
+627,insect_bite_leaf_14.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.05,27.2,87,Cloudy
+628,insect_bite_leaf_15.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,40.16,27.2,87,Cloudy
+629,insect_bite_leaf_16.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.73,27.2,87,Cloudy
+630,insect_bite_leaf_17.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.27,27.2,87,Cloudy
+631,insect_bite_leaf_18.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,30.6,27.2,87,Cloudy
+632,insect_bite_leaf_19.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61,27.2,87,Cloudy
+633,insect_bite_leaf_20.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.57,27.2,87,Cloudy
+634,insect_bite_leaf_21.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,57.29,27.2,87,Cloudy
+635,insect_bite_leaf_22.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,43.94,27.2,87,Cloudy
+636,insect_bite_leaf_23.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,55.88,27.2,87,Cloudy
+637,insect_bite_leaf_24.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,110.93,27.2,87,Cloudy
+638,insect_bite_leaf_25.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.74,27.2,87,Cloudy
+639,insect_bite_leaf_26.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,106.51,27.2,87,Cloudy
+640,insect_bite_leaf_27.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,129.04,27.2,87,Cloudy
+641,insect_bite_leaf_28.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.14,27.2,87,Cloudy
+642,insect_bite_leaf_29.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,110.65,27.2,87,Cloudy
+643,insect_bite_leaf_30.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,121.82,27.2,87,Cloudy
+644,insect_bite_leaf_31.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,93.82,27.2,87,Cloudy
+645,insect_bite_leaf_32.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.13,27.2,87,Cloudy
+646,insect_bite_leaf_33.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.45,27.2,87,Cloudy
+647,insect_bite_leaf_34.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.43,27.2,87,Cloudy
+648,insect_bite_leaf_35.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,133.39,27.2,87,Cloudy
+649,insect_bite_leaf_36.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.21,27.2,87,Cloudy
+650,insect_bite_leaf_37.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,131.27,27.2,87,Cloudy
+651,insect_bite_leaf_38.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,81.08,27.2,87,Cloudy
+652,insect_bite_leaf_39.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,107.98,27.2,87,Cloudy
+653,insect_bite_leaf_40.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.71,27.2,87,Cloudy
+654,insect_bite_leaf_41.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,80.82,27.2,87,Cloudy
+655,insect_bite_leaf_42.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.36,27.2,87,Cloudy
+656,insect_bite_leaf_43.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.68,27.2,87,Cloudy
+657,insect_bite_leaf_44.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,80.38,27.2,87,Cloudy
+658,insect_bite_leaf_45.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,142.97,27.2,87,Cloudy
+659,insect_bite_leaf_46.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.73,27.2,87,Cloudy
+660,insect_bite_leaf_47.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,86.77,27.2,87,Cloudy
+661,insect_bite_leaf_48.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.61,27.2,87,Cloudy
+662,insect_bite_leaf_49.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,93.12,27.2,87,Cloudy
+663,insect_bite_leaf_50.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,86.63,27.2,87,Cloudy
+664,insect_bite_leaf_51.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.74,27.2,87,Cloudy
+665,insect_bite_leaf_52.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,73.39,27.2,87,Cloudy
+666,insect_bite_leaf_53.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.45,27.2,87,Cloudy
+667,insect_bite_leaf_54.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,78.33,27.2,87,Cloudy
+668,insect_bite_leaf_55.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,64.67,27.2,87,Cloudy
+669,insect_bite_leaf_56.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,75.3,27.2,87,Cloudy
+670,insect_bite_leaf_57.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.63,27.2,87,Cloudy
+671,insect_bite_leaf_58.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,159.81,27.2,87,Cloudy
+672,insect_bite_leaf_59.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,139.57,27.2,87,Cloudy
+673,insect_bite_leaf_60.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.76,27.2,87,Cloudy
+674,insect_bite_leaf_61.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.09,27.2,87,Cloudy
+675,insect_bite_leaf_62.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,111.32,27.2,87,Cloudy
+676,insect_bite_leaf_63.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.75,27.2,87,Cloudy
+677,insect_bite_leaf_64.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.99,27.2,87,Cloudy
+678,insect_bite_leaf_65.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,137.71,27.2,87,Cloudy
+679,insect_bite_leaf_66.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,146.02,27.2,87,Cloudy
+680,insect_bite_leaf_67.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,90.02,27.2,87,Cloudy
+681,insect_bite_leaf_68.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.67,27.2,87,Cloudy
+682,insect_bite_leaf_69.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.88,27.2,87,Cloudy
+683,insect_bite_leaf_70.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,113.7,27.2,87,Cloudy
+684,insect_bite_leaf_71.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.29,27.2,87,Cloudy
+685,insect_bite_leaf_72.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,71.79,27.2,87,Cloudy
+686,insect_bite_leaf_73.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.8,27.2,87,Cloudy
+687,insect_bite_leaf_74.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.38,27.2,87,Cloudy
+688,insect_bite_leaf_75.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,96.87,27.2,87,Cloudy
+689,insect_bite_leaf_76.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.79,27.2,87,Cloudy
+690,insect_bite_leaf_77.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.23,27.2,87,Cloudy
+691,insect_bite_leaf_78.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.27,27.2,87,Cloudy
+692,insect_bite_leaf_79.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.94,27.2,87,Cloudy
+693,insect_bite_leaf_80.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.98,27.2,87,Cloudy
+694,insect_bite_leaf_81.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.28,27.2,87,Cloudy
+695,insect_bite_leaf_82.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.33,27.2,87,Cloudy
+696,insect_bite_leaf_83.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.5,27.2,87,Cloudy
+697,insect_bite_leaf_84.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.82,27.2,87,Cloudy
+698,insect_bite_leaf_85.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,86.1,27.2,87,Cloudy
+699,insect_bite_leaf_86.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,33.83,27.2,87,Cloudy
+700,insect_bite_leaf_87.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,54.1,27.2,87,Cloudy
+701,insect_bite_leaf_88.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,34.77,27.2,87,Cloudy
+702,insect_bite_leaf_89.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.48,27.2,87,Cloudy
+703,insect_bite_leaf_90.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,54.31,27.2,87,Cloudy
+704,insect_bite_leaf_91.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,48.54,27.2,87,Cloudy
+705,insect_bite_leaf_92.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,53.42,27.2,87,Cloudy
+706,insect_bite_leaf_93.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.37,27.2,87,Cloudy
+707,insect_bite_leaf_94.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,37.37,27.2,87,Cloudy
+708,insect_bite_leaf_95.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,52.75,27.2,87,Cloudy
+709,insect_bite_leaf_96.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,34.87,27.2,87,Cloudy
+710,insect_bite_leaf_97.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.59,27.2,87,Cloudy
+711,insect_bite_leaf_98.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,53.22,27.2,87,Cloudy
+712,insect_bite_leaf_99.jpg,insect_bite_leaf,8/29/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,41.37,27.2,87,Cloudy
+713,mealybug_leaf_01.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,136.5,26.1,90,Rainy
+714,mealybug_leaf_02.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,101.58,26.1,90,Rainy
+715,mealybug_leaf_03.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,132.18,26.1,90,Rainy
+716,mealybug_leaf_04.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,132.73,26.1,90,Rainy
+717,mealybug_leaf_05.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,161.75,26.1,90,Rainy
+718,mealybug_leaf_06.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,151.22,26.1,90,Rainy
+719,mealybug_leaf_07.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,170.38,26.1,90,Rainy
+720,mealybug_leaf_08.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,167.09,26.1,90,Rainy
+721,mealybug_leaf_09.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,154.91,26.1,90,Rainy
+722,mealybug_leaf_10.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,147.82,26.1,90,Rainy
+723,mealybug_leaf_100.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,169.7,26.1,90,Rainy
+724,mealybug_leaf_101.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,137.69,26.1,90,Rainy
+725,mealybug_leaf_102.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,146.75,26.1,90,Rainy
+726,mealybug_leaf_103.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,158.14,26.1,90,Rainy
+727,mealybug_leaf_104.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,130.16,26.1,90,Rainy
+728,mealybug_leaf_105.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,134.71,26.1,90,Rainy
+729,mealybug_leaf_106.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,148.2,26.1,90,Rainy
+730,mealybug_leaf_107.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,145.88,26.1,90,Rainy
+731,mealybug_leaf_108.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.1,26.1,90,Rainy
+732,mealybug_leaf_109.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,144.46,26.1,90,Rainy
+733,mealybug_leaf_11.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,138.13,26.1,90,Rainy
+734,mealybug_leaf_110.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,142.11,26.1,90,Rainy
+735,mealybug_leaf_111.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,144.41,26.1,90,Rainy
+736,mealybug_leaf_112.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,130.21,26.1,90,Rainy
+737,mealybug_leaf_113.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,136.5,26.1,90,Rainy
+738,mealybug_leaf_114.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,130.96,26.1,90,Rainy
+739,mealybug_leaf_115.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.01,26.1,90,Rainy
+740,mealybug_leaf_116.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,139.34,26.1,90,Rainy
+741,mealybug_leaf_117.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,149.64,26.1,90,Rainy
+742,mealybug_leaf_118.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,151.76,26.1,90,Rainy
+743,mealybug_leaf_12.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,184.52,26.1,90,Rainy
+744,mealybug_leaf_13.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,186.9,26.1,90,Rainy
+745,mealybug_leaf_14.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,164.25,26.1,90,Rainy
+746,mealybug_leaf_15.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,190.68,26.1,90,Rainy
+747,mealybug_leaf_16.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,161.58,26.1,90,Rainy
+748,mealybug_leaf_17.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,129.44,26.1,90,Rainy
+749,mealybug_leaf_18.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,131.58,26.1,90,Rainy
+750,mealybug_leaf_19.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,119.07,26.1,90,Rainy
+751,mealybug_leaf_20.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.32,26.1,90,Rainy
+752,mealybug_leaf_21.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.9,26.1,90,Rainy
+753,mealybug_leaf_22.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,134.64,26.1,90,Rainy
+754,mealybug_leaf_23.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,119.15,26.1,90,Rainy
+755,mealybug_leaf_24.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.91,26.1,90,Rainy
+756,mealybug_leaf_25.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,156.06,26.1,90,Rainy
+757,mealybug_leaf_26.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,114.63,26.1,90,Rainy
+758,mealybug_leaf_27.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,143.68,26.1,90,Rainy
+759,mealybug_leaf_28.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.4,26.1,90,Rainy
+760,mealybug_leaf_29.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,154.41,26.1,90,Rainy
+761,mealybug_leaf_30.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,165.79,26.1,90,Rainy
+762,mealybug_leaf_31.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,157.18,26.1,90,Rainy
+763,mealybug_leaf_32.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.32,26.1,90,Rainy
+764,mealybug_leaf_33.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,176.84,26.1,90,Rainy
+765,mealybug_leaf_34.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,149.38,26.1,90,Rainy
+766,mealybug_leaf_35.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,226.15,26.1,90,Rainy
+767,mealybug_leaf_36.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,156.53,26.1,90,Rainy
+768,mealybug_leaf_37.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,147.07,26.1,90,Rainy
+769,mealybug_leaf_38.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,174.34,26.1,90,Rainy
+770,mealybug_leaf_39.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.4,26.1,90,Rainy
+771,mealybug_leaf_40.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,168.64,26.1,90,Rainy
+772,mealybug_leaf_41.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.36,26.1,90,Rainy
+773,mealybug_leaf_42.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,147.84,26.1,90,Rainy
+774,mealybug_leaf_43.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,155.31,26.1,90,Rainy
+775,mealybug_leaf_44.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,154.35,26.1,90,Rainy
+776,mealybug_leaf_45.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.59,26.1,90,Rainy
+777,mealybug_leaf_46.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,221.8,26.1,90,Rainy
+778,mealybug_leaf_47.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,147.28,26.1,90,Rainy
+779,mealybug_leaf_48.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.38,26.1,90,Rainy
+780,mealybug_leaf_49.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,143.58,26.1,90,Rainy
+781,mealybug_leaf_50.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,103.05,26.1,90,Rainy
+782,mealybug_leaf_51.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,157.12,26.1,90,Rainy
+783,mealybug_leaf_52.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,163.45,26.1,90,Rainy
+784,mealybug_leaf_53.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,156.5,26.1,90,Rainy
+785,mealybug_leaf_54.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,175.77,26.1,90,Rainy
+786,mealybug_leaf_55.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,167.11,26.1,90,Rainy
+787,mealybug_leaf_56.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,160.77,26.1,90,Rainy
+788,mealybug_leaf_57.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,153.61,26.1,90,Rainy
+789,mealybug_leaf_58.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,143.64,26.1,90,Rainy
+790,mealybug_leaf_59.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,122.2,26.1,90,Rainy
+791,mealybug_leaf_60.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,134.32,26.1,90,Rainy
+792,mealybug_leaf_61.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,149.57,26.1,90,Rainy
+793,mealybug_leaf_62.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,181.2,26.1,90,Rainy
+794,mealybug_leaf_63.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,154.66,26.1,90,Rainy
+795,mealybug_leaf_64.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,157.52,26.1,90,Rainy
+796,mealybug_leaf_65.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.78,26.1,90,Rainy
+797,mealybug_leaf_66.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.62,26.1,90,Rainy
+798,mealybug_leaf_67.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,110.01,26.1,90,Rainy
+799,mealybug_leaf_68.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,145.21,26.1,90,Rainy
+800,mealybug_leaf_69.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.04,26.1,90,Rainy
+801,mealybug_leaf_70.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,135.44,26.1,90,Rainy
+802,mealybug_leaf_71.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,149.95,26.1,90,Rainy
+803,mealybug_leaf_72.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,143.27,26.1,90,Rainy
+804,mealybug_leaf_73.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,146.42,26.1,90,Rainy
+805,mealybug_leaf_74.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,148.53,26.1,90,Rainy
+806,mealybug_leaf_75.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,146.31,26.1,90,Rainy
+807,mealybug_leaf_76.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,153.45,26.1,90,Rainy
+808,mealybug_leaf_77.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,149.83,26.1,90,Rainy
+809,mealybug_leaf_78.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,157.88,26.1,90,Rainy
+810,mealybug_leaf_79.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,156.33,26.1,90,Rainy
+811,mealybug_leaf_80.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,136.87,26.1,90,Rainy
+812,mealybug_leaf_81.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,142.98,26.1,90,Rainy
+813,mealybug_leaf_82.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,122.81,26.1,90,Rainy
+814,mealybug_leaf_83.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.64,26.1,90,Rainy
+815,mealybug_leaf_84.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,135.48,26.1,90,Rainy
+816,mealybug_leaf_85.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,135.14,26.1,90,Rainy
+817,mealybug_leaf_86.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,136.14,26.1,90,Rainy
+818,mealybug_leaf_87.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,133.62,26.1,90,Rainy
+819,mealybug_leaf_88.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,133.74,26.1,90,Rainy
+820,mealybug_leaf_89.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,131.8,26.1,90,Rainy
+821,mealybug_leaf_90.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,123.71,26.1,90,Rainy
+822,mealybug_leaf_91.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,124.94,26.1,90,Rainy
+823,mealybug_leaf_92.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.67,26.1,90,Rainy
+824,mealybug_leaf_93.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.98,26.1,90,Rainy
+825,mealybug_leaf_94.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,110.63,26.1,90,Rainy
+826,mealybug_leaf_95.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,135.03,26.1,90,Rainy
+827,mealybug_leaf_96.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,133.95,26.1,90,Rainy
+828,mealybug_leaf_97.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,171.63,26.1,90,Rainy
+829,mealybug_leaf_98.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,148.74,26.1,90,Rainy
+830,mealybug_leaf_99.jpg,mealybug_leaf,7/10/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,141.88,26.1,90,Rainy
+831,red_rust_leaf_01.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,144.97,27.8,83,Cloudy
+832,red_rust_leaf_02.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.8,27.8,83,Cloudy
+833,red_rust_leaf_03.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,109.37,27.8,83,Cloudy
+834,red_rust_leaf_04.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,88.61,27.8,83,Cloudy
+835,red_rust_leaf_05.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.61,27.8,83,Cloudy
+836,red_rust_leaf_06.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,95.83,27.8,83,Cloudy
+837,red_rust_leaf_07.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,95.15,27.8,83,Cloudy
+838,red_rust_leaf_08.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,96.93,27.8,83,Cloudy
+839,red_rust_leaf_09.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.92,27.8,83,Cloudy
+840,red_rust_leaf_10.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.38,27.8,83,Cloudy
+841,red_rust_leaf_11.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,43.35,27.8,83,Cloudy
+842,red_rust_leaf_12.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.68,27.8,83,Cloudy
+843,red_rust_leaf_13.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,46.42,27.8,83,Cloudy
+844,red_rust_leaf_14.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.06,27.8,83,Cloudy
+845,red_rust_leaf_15.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,43.36,27.8,83,Cloudy
+846,red_rust_leaf_16.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,69.8,27.8,83,Cloudy
+847,red_rust_leaf_17.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,74.35,27.8,83,Cloudy
+848,red_rust_leaf_18.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.78,27.8,83,Cloudy
+849,red_rust_leaf_19.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,93.68,27.8,83,Cloudy
+850,red_rust_leaf_20.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,51.18,27.8,83,Cloudy
+851,red_rust_leaf_21.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,59.27,27.8,83,Cloudy
+852,red_rust_leaf_22.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.7,27.8,83,Cloudy
+853,red_rust_leaf_23.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,61.04,27.8,83,Cloudy
+854,red_rust_leaf_24.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.84,27.8,83,Cloudy
+855,red_rust_leaf_25.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,46.42,27.8,83,Cloudy
+856,red_rust_leaf_26.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,62.11,27.8,83,Cloudy
+857,red_rust_leaf_27.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,50.85,27.8,83,Cloudy
+858,red_rust_leaf_28.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.16,27.8,83,Cloudy
+859,red_rust_leaf_29.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,126,27.8,83,Cloudy
+860,red_rust_leaf_30.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.79,27.8,83,Cloudy
+861,red_rust_leaf_31.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,135.79,27.8,83,Cloudy
+862,red_rust_leaf_32.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,70.36,27.8,83,Cloudy
+863,red_rust_leaf_33.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.22,27.8,83,Cloudy
+864,red_rust_leaf_34.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.21,27.8,83,Cloudy
+865,red_rust_leaf_35.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.3,27.8,83,Cloudy
+866,red_rust_leaf_36.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,150.4,27.8,83,Cloudy
+867,red_rust_leaf_37.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,145.75,27.8,83,Cloudy
+868,red_rust_leaf_38.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,96.79,27.8,83,Cloudy
+869,red_rust_leaf_39.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,102.7,27.8,83,Cloudy
+870,red_rust_leaf_40.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.04,27.8,83,Cloudy
+871,red_rust_leaf_41.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.91,27.8,83,Cloudy
+872,red_rust_leaf_42.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,105.82,27.8,83,Cloudy
+873,red_rust_leaf_43.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,156.65,27.8,83,Cloudy
+874,red_rust_leaf_44.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,155.76,27.8,83,Cloudy
+875,red_rust_leaf_45.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,154.24,27.8,83,Cloudy
+876,red_rust_leaf_46.jpg,red_rust_leaf,7/1/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,165.62,27.8,83,Cloudy
+877,red_rust_leaf_47.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.17,27.2,86,Cloudy
+878,red_rust_leaf_48.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,114.71,27.2,86,Cloudy
+879,red_rust_leaf_49.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.91,27.2,86,Cloudy
+880,red_rust_leaf_50.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,171.19,27.2,86,Cloudy
+881,red_rust_leaf_51.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,174.76,27.2,86,Cloudy
+882,red_rust_leaf_52.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,136.13,27.2,86,Cloudy
+883,red_rust_leaf_53.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,172.49,27.2,86,Cloudy
+884,red_rust_leaf_54.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,140,27.2,86,Cloudy
+885,red_rust_leaf_55.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,145.68,27.2,86,Cloudy
+886,red_rust_leaf_56.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,108.22,27.2,86,Cloudy
+887,red_rust_leaf_57.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,137.55,27.2,86,Cloudy
+888,red_rust_leaf_58.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,122.77,27.2,86,Cloudy
+889,red_rust_leaf_59.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,116.96,27.2,86,Cloudy
+890,red_rust_leaf_60.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,160.7,27.2,86,Cloudy
+891,red_rust_leaf_61.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,119.38,27.2,86,Cloudy
+892,red_rust_leaf_62.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.59,27.2,86,Cloudy
+893,red_rust_leaf_63.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.21,27.2,86,Cloudy
+894,red_rust_leaf_64.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.97,27.2,86,Cloudy
+895,red_rust_leaf_65.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.49,27.2,86,Cloudy
+896,red_rust_leaf_66.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.36,27.2,86,Cloudy
+897,red_rust_leaf_67.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.56,27.2,86,Cloudy
+898,red_rust_leaf_68.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,87.36,27.2,86,Cloudy
+899,red_rust_leaf_69.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.37,27.2,86,Cloudy
+900,red_rust_leaf_70.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.74,27.2,86,Cloudy
+901,red_rust_leaf_71.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,87.13,27.2,86,Cloudy
+902,red_rust_leaf_72.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,97.88,27.2,86,Cloudy
+903,red_rust_leaf_73.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,117.54,27.2,86,Cloudy
+904,red_rust_leaf_74.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,87.55,27.2,86,Cloudy
+905,red_rust_leaf_75.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.59,27.2,86,Cloudy
+906,red_rust_leaf_76.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,94.81,27.2,86,Cloudy
+907,red_rust_leaf_77.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,112.82,27.2,86,Cloudy
+908,red_rust_leaf_78.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,103.14,27.2,86,Cloudy
+909,red_rust_leaf_79.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,106.34,27.2,86,Cloudy
+910,red_rust_leaf_80.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,115.63,27.2,86,Cloudy
+911,red_rust_leaf_81.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,96.54,27.2,86,Cloudy
+912,red_rust_leaf_82.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.03,27.2,86,Cloudy
+913,red_rust_leaf_83.jpg,red_rust_leaf,7/5/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.18,27.2,86,Cloudy
+914,scorch_leaf_01.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,64.21,25,86,Cloudy
+915,scorch_leaf_02.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,67.39,25,86,Cloudy
+916,scorch_leaf_03.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,62.79,25,86,Cloudy
+917,scorch_leaf_04.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.75,25,86,Cloudy
+918,scorch_leaf_05.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,77.63,25,86,Cloudy
+919,scorch_leaf_06.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,65.72,25,86,Cloudy
+920,scorch_leaf_07.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,73.14,25,86,Cloudy
+921,scorch_leaf_08.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,84.38,25,86,Cloudy
+922,scorch_leaf_09.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,104.04,25,86,Cloudy
+923,scorch_leaf_10.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,93.82,25,86,Cloudy
+924,scorch_leaf_11.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,56.16,25,86,Cloudy
+925,scorch_leaf_12.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,87.84,25,86,Cloudy
+926,scorch_leaf_13.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,100.08,25,86,Cloudy
+927,scorch_leaf_14.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.45,25,86,Cloudy
+928,scorch_leaf_15.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.55,25,86,Cloudy
+929,scorch_leaf_16.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.09,25,86,Cloudy
+930,scorch_leaf_17.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,90.76,25,86,Cloudy
+931,scorch_leaf_18.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,89.77,25,86,Cloudy
+932,scorch_leaf_19.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,58.58,25,86,Cloudy
+933,scorch_leaf_20.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,111.39,25,86,Cloudy
+934,scorch_leaf_21.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,101.3,25,86,Cloudy
+935,scorch_leaf_22.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,108.25,25,86,Cloudy
+936,scorch_leaf_23.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,95.58,25,86,Cloudy
+937,scorch_leaf_24.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.08,25,86,Cloudy
+938,scorch_leaf_25.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,90.57,25,86,Cloudy
+939,scorch_leaf_26.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,55.58,25,86,Cloudy
+940,scorch_leaf_27.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.91,25,86,Cloudy
+941,scorch_leaf_28.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.88,25,86,Cloudy
+942,scorch_leaf_29.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.59,25,86,Cloudy
+943,scorch_leaf_30.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.07,25,86,Cloudy
+944,scorch_leaf_31.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,47.11,25,86,Cloudy
+945,scorch_leaf_32.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,43.63,25,86,Cloudy
+946,scorch_leaf_33.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,45.06,25,86,Cloudy
+947,scorch_leaf_34.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.06,25,86,Cloudy
+948,scorch_leaf_35.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,38.31,25,86,Cloudy
+949,scorch_leaf_36.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.04,25,86,Cloudy
+950,scorch_leaf_37.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,56.9,25,86,Cloudy
+951,scorch_leaf_38.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.4,25,86,Cloudy
+952,scorch_leaf_39.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,35.09,25,86,Cloudy
+953,scorch_leaf_40.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,35.97,25,86,Cloudy
+954,scorch_leaf_41.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,58.49,25,86,Cloudy
+955,scorch_leaf_42.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,34.47,25,86,Cloudy
+956,scorch_leaf_43.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,45.09,25,86,Cloudy
+957,scorch_leaf_44.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.06,25,86,Cloudy
+958,scorch_leaf_45.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,36.12,25,86,Cloudy
+959,scorch_leaf_46.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,52.99,25,86,Cloudy
+960,scorch_leaf_47.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,36.53,25,86,Cloudy
+961,scorch_leaf_48.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,32.11,25,86,Cloudy
+962,scorch_leaf_49.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,60.21,25,86,Cloudy
+963,scorch_leaf_50.jpg,scorch_leaf,6/3/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,42.82,25,86,Cloudy
+964,scorch_leaf_51.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,64.89,25,85,Cloudy
+965,scorch_leaf_52.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,69.37,25,85,Cloudy
+966,scorch_leaf_53.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.65,25,85,Cloudy
+967,scorch_leaf_54.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,75.82,25,85,Cloudy
+968,scorch_leaf_55.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,75.75,25,85,Cloudy
+969,scorch_leaf_56.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.59,25,85,Cloudy
+970,scorch_leaf_57.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.27,25,85,Cloudy
+971,scorch_leaf_58.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,56.49,25,85,Cloudy
+972,scorch_leaf_59.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,60.5,25,85,Cloudy
+973,scorch_leaf_60.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,63.97,25,85,Cloudy
+974,scorch_leaf_61.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,66.77,25,85,Cloudy
+975,scorch_leaf_62.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.3,25,85,Cloudy
+976,scorch_leaf_63.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.1,25,85,Cloudy
+977,scorch_leaf_64.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,55.63,25,85,Cloudy
+978,scorch_leaf_65.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,73.03,25,85,Cloudy
+979,scorch_leaf_66.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.14,25,85,Cloudy
+980,scorch_leaf_67.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.38,25,85,Cloudy
+981,scorch_leaf_68.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,69.13,25,85,Cloudy
+982,scorch_leaf_69.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.66,25,85,Cloudy
+983,scorch_leaf_70.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,64.27,25,85,Cloudy
+984,scorch_leaf_71.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,75.33,25,85,Cloudy
+985,scorch_leaf_72.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,66.73,25,85,Cloudy
+986,scorch_leaf_73.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.27,25,85,Cloudy
+987,scorch_leaf_74.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.27,25,85,Cloudy
+988,scorch_leaf_75.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.65,25,85,Cloudy
+989,scorch_leaf_76.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,75.98,25,85,Cloudy
+990,scorch_leaf_77.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,65.8,25,85,Cloudy
+991,scorch_leaf_78.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.46,25,85,Cloudy
+992,scorch_leaf_79.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.22,25,85,Cloudy
+993,scorch_leaf_80.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,72.61,25,85,Cloudy
+994,scorch_leaf_81.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.76,25,85,Cloudy
+995,scorch_leaf_82.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,58.58,25,85,Cloudy
+996,scorch_leaf_83.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,63.44,25,85,Cloudy
+997,scorch_leaf_84.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,61.2,25,85,Cloudy
+998,scorch_leaf_85.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,63.64,25,85,Cloudy
+999,scorch_leaf_86.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,52.74,25,85,Cloudy
+1000,scorch_leaf_87.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,65.99,25,85,Cloudy
+1001,scorch_leaf_88.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,71.01,25,85,Cloudy
+1002,scorch_leaf_89.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,68.22,25,85,Cloudy
+1003,scorch_leaf_90.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,71.77,25,85,Cloudy
+1004,scorch_leaf_91.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.77,25,85,Cloudy
+1005,scorch_leaf_92.jpg,scorch_leaf,6/4/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.06,25,85,Cloudy
+1006,yellow_leaf_disease_01.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,88.17,27.2,87,Cloudy
+1007,yellow_leaf_disease_02.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,100.98,27.2,87,Cloudy
+1008,yellow_leaf_disease_03.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,98.75,27.2,87,Cloudy
+1009,yellow_leaf_disease_04.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,90.93,27.2,87,Cloudy
+1010,yellow_leaf_disease_05.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,93.25,27.2,87,Cloudy
+1011,yellow_leaf_disease_06.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.71,27.2,87,Cloudy
+1012,yellow_leaf_disease_07.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,80.48,27.2,87,Cloudy
+1013,yellow_leaf_disease_08.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,100.72,27.2,87,Cloudy
+1014,yellow_leaf_disease_09.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,96.9,27.2,87,Cloudy
+1015,yellow_leaf_disease_10.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,103.93,27.2,87,Cloudy
+1016,yellow_leaf_disease_100.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.23,28.9,86,Sunny
+1017,yellow_leaf_disease_101.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,106.09,28.9,86,Sunny
+1018,yellow_leaf_disease_102.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.66,28.9,86,Sunny
+1019,yellow_leaf_disease_103.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.77,28.9,86,Sunny
+1020,yellow_leaf_disease_104.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.25,28.9,86,Sunny
+1021,yellow_leaf_disease_11.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,116.45,27.2,87,Cloudy
+1022,yellow_leaf_disease_12.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,102.42,27.2,87,Cloudy
+1023,yellow_leaf_disease_13.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,103.33,27.2,87,Cloudy
+1024,yellow_leaf_disease_14.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,103.47,27.2,87,Cloudy
+1025,yellow_leaf_disease_15.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,102.34,27.2,87,Cloudy
+1026,yellow_leaf_disease_16.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,92.58,27.2,87,Cloudy
+1027,yellow_leaf_disease_17.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,91.96,27.2,87,Cloudy
+1028,yellow_leaf_disease_18.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,100.68,27.2,87,Cloudy
+1029,yellow_leaf_disease_19.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,86.46,27.2,87,Cloudy
+1030,yellow_leaf_disease_20.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,102.91,27.2,87,Cloudy
+1031,yellow_leaf_disease_21.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,97.2,27.2,87,Cloudy
+1032,yellow_leaf_disease_22.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,93.21,27.2,87,Cloudy
+1033,yellow_leaf_disease_23.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,94.77,27.2,87,Cloudy
+1034,yellow_leaf_disease_24.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,79.46,27.2,87,Cloudy
+1035,yellow_leaf_disease_25.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,119.95,27.2,87,Cloudy
+1036,yellow_leaf_disease_26.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,124.25,27.2,87,Cloudy
+1037,yellow_leaf_disease_27.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,135.47,27.2,87,Cloudy
+1038,yellow_leaf_disease_28.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,129.76,27.2,87,Cloudy
+1039,yellow_leaf_disease_29.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.08,27.2,87,Cloudy
+1040,yellow_leaf_disease_30.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,40.53,27.2,87,Cloudy
+1041,yellow_leaf_disease_31.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,57.5,27.2,87,Cloudy
+1042,yellow_leaf_disease_32.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.17,27.2,87,Cloudy
+1043,yellow_leaf_disease_33.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,80.35,27.2,87,Cloudy
+1044,yellow_leaf_disease_34.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,46.68,27.2,87,Cloudy
+1045,yellow_leaf_disease_35.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,72.07,27.2,87,Cloudy
+1046,yellow_leaf_disease_36.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.77,27.2,87,Cloudy
+1047,yellow_leaf_disease_37.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,73.18,27.2,87,Cloudy
+1048,yellow_leaf_disease_38.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,47.13,27.2,87,Cloudy
+1049,yellow_leaf_disease_39.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,74.62,27.2,87,Cloudy
+1050,yellow_leaf_disease_40.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,47.19,27.2,87,Cloudy
+1051,yellow_leaf_disease_41.jpg,yellow_leaf_disease,6/10/2025,Jahangirnagar University,23.87781132,90.26664405,640,640,JPEG,39.39,27.2,87,Cloudy
+1052,yellow_leaf_disease_42.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,38.96,28.9,86,Sunny
+1053,yellow_leaf_disease_43.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,39.77,28.9,86,Sunny
+1054,yellow_leaf_disease_44.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,78.86,28.9,86,Sunny
+1055,yellow_leaf_disease_45.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.58,28.9,86,Sunny
+1056,yellow_leaf_disease_46.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.97,28.9,86,Sunny
+1057,yellow_leaf_disease_47.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.09,28.9,86,Sunny
+1058,yellow_leaf_disease_48.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,80.16,28.9,86,Sunny
+1059,yellow_leaf_disease_49.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.16,28.9,86,Sunny
+1060,yellow_leaf_disease_50.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.81,28.9,86,Sunny
+1061,yellow_leaf_disease_51.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.04,28.9,86,Sunny
+1062,yellow_leaf_disease_52.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,82.04,28.9,86,Sunny
+1063,yellow_leaf_disease_53.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,76.21,28.9,86,Sunny
+1064,yellow_leaf_disease_54.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,64.2,28.9,86,Sunny
+1065,yellow_leaf_disease_55.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,82.79,28.9,86,Sunny
+1066,yellow_leaf_disease_56.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,85.16,28.9,86,Sunny
+1067,yellow_leaf_disease_57.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,70.26,28.9,86,Sunny
+1068,yellow_leaf_disease_58.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,91.25,28.9,86,Sunny
+1069,yellow_leaf_disease_59.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,81.36,28.9,86,Sunny
+1070,yellow_leaf_disease_60.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,67.46,28.9,86,Sunny
+1071,yellow_leaf_disease_61.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.81,28.9,86,Sunny
+1072,yellow_leaf_disease_62.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.18,28.9,86,Sunny
+1073,yellow_leaf_disease_63.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,98.69,28.9,86,Sunny
+1074,yellow_leaf_disease_64.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.32,28.9,86,Sunny
+1075,yellow_leaf_disease_65.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,93.82,28.9,86,Sunny
+1076,yellow_leaf_disease_66.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,89.98,28.9,86,Sunny
+1077,yellow_leaf_disease_67.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,92.03,28.9,86,Sunny
+1078,yellow_leaf_disease_68.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,95.93,28.9,86,Sunny
+1079,yellow_leaf_disease_69.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.53,28.9,86,Sunny
+1080,yellow_leaf_disease_70.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,83.64,28.9,86,Sunny
+1081,yellow_leaf_disease_71.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.53,28.9,86,Sunny
+1082,yellow_leaf_disease_72.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.15,28.9,86,Sunny
+1083,yellow_leaf_disease_73.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,101.03,28.9,86,Sunny
+1084,yellow_leaf_disease_74.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.47,28.9,86,Sunny
+1085,yellow_leaf_disease_75.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.42,28.9,86,Sunny
+1086,yellow_leaf_disease_76.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.96,28.9,86,Sunny
+1087,yellow_leaf_disease_77.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.47,28.9,86,Sunny
+1088,yellow_leaf_disease_78.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,111.48,28.9,86,Sunny
+1089,yellow_leaf_disease_79.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,111.74,28.9,86,Sunny
+1090,yellow_leaf_disease_80.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,123.42,28.9,86,Sunny
+1091,yellow_leaf_disease_81.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,107.13,28.9,86,Sunny
+1092,yellow_leaf_disease_82.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,118.38,28.9,86,Sunny
+1093,yellow_leaf_disease_83.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,74.94,28.9,86,Sunny
+1094,yellow_leaf_disease_84.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,79.95,28.9,86,Sunny
+1095,yellow_leaf_disease_85.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,84.6,28.9,86,Sunny
+1096,yellow_leaf_disease_86.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.17,28.9,86,Sunny
+1097,yellow_leaf_disease_87.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,99.11,28.9,86,Sunny
+1098,yellow_leaf_disease_88.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.84,28.9,86,Sunny
+1099,yellow_leaf_disease_89.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,115.73,28.9,86,Sunny
+1100,yellow_leaf_disease_90.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,116.58,28.9,86,Sunny
+1101,yellow_leaf_disease_91.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.68,28.9,86,Sunny
+1102,yellow_leaf_disease_92.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,102.25,28.9,86,Sunny
+1103,yellow_leaf_disease_93.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,77.1,28.9,86,Sunny
+1104,yellow_leaf_disease_94.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,88.35,28.9,86,Sunny
+1105,yellow_leaf_disease_95.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,100.15,28.9,86,Sunny
+1106,yellow_leaf_disease_96.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.81,28.9,86,Sunny
+1107,yellow_leaf_disease_97.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,104.82,28.9,86,Sunny
+1108,yellow_leaf_disease_98.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,105.2,28.9,86,Sunny
+1109,yellow_leaf_disease_99.jpg,yellow_leaf_disease,6/15/2025,National Botanical Garden,23.81303227,90.34760052,640,640,JPEG,109.59,28.9,86,Sunny
